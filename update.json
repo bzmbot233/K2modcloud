@@ -1,6 +1,6 @@
 {
-  "versionCode": 121,
-  "versionName": "1.21",
+  "versionCode": 122,
+  "versionName": "1.22",
   "changelog": "1. 移除伪装安卓版本功能\n2. 修复已知问题\n3. 优化用户体验",
   "downloadUrl": "https://bzmbot233.github.io/K2modcloud/app-release.apk"
 }
